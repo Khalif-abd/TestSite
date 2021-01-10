@@ -1,0 +1,26 @@
+.wrapper {
+  width: 1000px;
+  padding: 10px;
+  margin: 0 auto;
+}
+
+.left {
+  height: 600px;
+  width: 250px;
+  padding: 10px;
+  vertical-align: top;
+  display: inline-block;
+  border: 1px solid silver;
+}
+
+.center {
+  min-height: 600px;
+  width: 700px;
+  vertical-align: top;
+  display: inline-block;
+  border: 2px solid silver;
+}
+
+.view {
+  width: auto;
+}
